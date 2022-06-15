@@ -75,4 +75,4 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
 }
 //console.log(getRandomInt(50, 100));
-
+//While the Math.ceil method returns the smallest integer greater than or equal to the value we pass, Math.floor returns the largest or equal integer that is less than the given value.
